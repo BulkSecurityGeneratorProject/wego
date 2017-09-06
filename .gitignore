@@ -89,3 +89,22 @@ typings/
 
 # dotenv environment variables file
 .env
+
+offchain/.angular-cli.json
+offchain/.editorconfig
+offchain/.gitattributes
+offchain/.gitignore
+offchain/.jhipster
+offchain/jhipster-jdl.jh
+offchain/.mvn
+offchain/mvnw
+offchain/mvnw.cmd
+offchain/package.json
+offchain/pom.xml
+offchain/proxy.conf.json
+offchain/tsconfig-aot.json
+offchain/tsconfig.json
+offchain/tslint.json
+offchain/webpack
+offchain/yarn.lock
+offchain/.yo-rc.json
